@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          UNINORTE MARIO
+          Learn React
         </a>
       </header>
     </div>
